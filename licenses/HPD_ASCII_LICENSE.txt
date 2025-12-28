@@ -1,0 +1,113 @@
+cat > /tmp/HPD_LICENSE_BLOCK.txt <<'EOF'
+=====================================================================
+HUMAN PERIMETER DOCTRINE (HPD)
+ASCII LICENSE & USE NOTICE
+=====================================================================
+
+STATUS: CANONICAL · NON-PROPRIETARY · DECLARATIVE
+
+---------------------------------------------------------------------
+1. GRANT OF PERMISSION (SPEECH)
+---------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person or
+institution obtaining a copy of this repository and associated
+documentation files (the "Doctrine"), to read, copy, cite, publish,
+fork, modify, translate, and distribute the Doctrine for purposes of:
+
+- public discourse
+- academic study
+- policy analysis
+- legislative reference
+- critique or rejection
+
+No permission, fee, registration, or reporting is required for these
+activities.
+
+---------------------------------------------------------------------
+2. OPERATIONAL RELIANCE (USE)
+---------------------------------------------------------------------
+
+"Use" is defined as the integration of HPD artifacts, logic, or
+structures into a decision-bearing workflow that affects:
+
+- financial settlement
+- resource allocation
+- escrow or payment timing
+- adjudication of rights or claims
+
+Operational reliance on HPD constitutes an institutional decision to
+assume responsibility for the integrity of that use.
+
+---------------------------------------------------------------------
+3. FUNDING BOUNDARY
+---------------------------------------------------------------------
+
+Operational reliance on HPD creates a requirement for institutional
+funding sufficient to sustain:
+
+- the technical integrity of the operational stack
+- the professional standing of human decision-makers
+  ("Responsible Officers")
+
+The form, amount, and administration of such funding are determined
+solely by the adopting institution through its existing procurement,
+budgetary, or privately mediated processes.
+
+HPD:
+- does NOT set prices
+- does NOT collect fees
+- does NOT negotiate terms
+- does NOT participate in funding decisions
+
+HPD does not charge for ideas.
+HPD refuses to subsidize institutional risk.
+
+---------------------------------------------------------------------
+4. NO ENFORCEMENT / NO SUPERVISION
+---------------------------------------------------------------------
+
+HPD does not:
+
+- certify or appoint personnel
+- supervise or discipline operators
+- enforce compliance
+- audit or investigate institutions
+- initiate legal or regulatory action
+
+Institutions assume full responsibility for their adherence to the
+standards described in this repository.
+
+Deviation from these standards is not "illegal" under HPD.
+Deviation is simply visible on the append-only record.
+
+---------------------------------------------------------------------
+5. DISCLAIMER OF WARRANTY
+---------------------------------------------------------------------
+
+THE DOCTRINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE DOCTRINE OR
+FROM OPERATIONAL RELIANCE CHOICES MADE BY ADOPTING INSTITUTIONS.
+
+---------------------------------------------------------------------
+6. INTERPRETATION
+---------------------------------------------------------------------
+
+This license is intended to preserve:
+
+- freedom of speech
+- forkability
+- institutional autonomy
+- audit visibility without coercion
+
+If a conflict arises between convenience and integrity,
+integrity governs.
+
+---------------------------------------------------------------------
+END OF LICENSE
+=====================================================================
+EOF

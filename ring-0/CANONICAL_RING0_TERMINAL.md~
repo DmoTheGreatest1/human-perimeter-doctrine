@@ -1,0 +1,24 @@
+# Canonical Ring-0 Finalization Terminal
+
+Status: CANONICAL · FROZEN · ASYMMETRIC
+
+Ring-0 is the final human authority layer.
+
+It exists to resolve irreducible discrepancies between:
+- Source A (vendor claims)
+- Source B (counterparty receipts)
+- Source C (physical or telemetry anchor)
+
+Ring-0 decisions are:
+- binary
+- attributable
+- timestamped
+- irreversible
+
+Ring-0 is intentionally slow, severe, and unpleasant.
+It is designed to resist convenience, negotiation, and discretion.
+
+This terminal may not be automated.
+This terminal may not be simulated.
+This terminal may not be bypassed.
+
