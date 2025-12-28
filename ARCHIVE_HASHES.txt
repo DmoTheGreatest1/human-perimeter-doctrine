@@ -5,7 +5,7 @@
 # NOTE:
 # - Filenames are relative to repository root.
 # - Any change to a file requires regenerating this list.
-d064d1d63958242ae941adb4d3b3e5f58b7585894e74b798b12c97a36c04272d  README.md
+408da80580becb14440c7be0499a5b639084b7f8218a96eaba2b751a4673285d  README.md
 fcd200c2c55eed077a79a55919ecad4a234f98c0baa666d6468f0581cb9e5628  LICENSE.txt
 f95c7ad3391f91ef3fee602fce162e9961e13a4bfc8f57277192e49fbba504cd  SPDX_NOTICE.txt
 da1d33e82f3965aeff3f0a5d08429423a06e584399c735116db90b63e7b32088  licenses/HPD_ASCII_LICENSE.txt
