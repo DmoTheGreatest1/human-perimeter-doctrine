@@ -10,3 +10,4 @@ Audience:
 - Courts
 - Institutions
 - Auditors
+HPD is governance documentation; operational tools live in separate repositories.
