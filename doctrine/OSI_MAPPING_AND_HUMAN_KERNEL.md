@@ -22,3 +22,11 @@ Key properties:
 This document is descriptive, not executable.
 Operational reliance is defined elsewhere.
 
+## Canonical Economic Primitive
+
+The foundational settlement primitive for HPD is defined in:
+
+- CANONICAL_PRIMITIVE_TRIPLE_ENTRY_SETTLEMENT.md
+
+This document specifies how verified capacity becomes money using
+triple-entry reconciliation (Vendor, Client, Physical Telemetry).
