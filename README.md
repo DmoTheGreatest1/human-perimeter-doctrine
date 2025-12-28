@@ -20,3 +20,4 @@ Operational reliance requires institution-resolved funding.
 See SPEECH_VS_USE_NOTICE.md and STEWARDSHIP_COMPENSATION_NOTICE.md.
 
 Canonical doctrine artifacts are located in subdirectories (doctrine/, ring-0/, governance/, california-pilot/). Full verification requires cloning the repository and checking ARCHIVE_HASHES.txt.
+Canonical doctrine artifacts are located in subdirectories (doctrine/, ring-0/, governance/, california-pilot/). Full verification requires cloning the repository and checking ARCHIVE_HASHES.txt.
