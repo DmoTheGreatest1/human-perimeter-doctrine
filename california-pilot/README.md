@@ -224,6 +224,102 @@ Summary
 This pilot shows how California broadband programs can reconcile money,
 performance, and reality more efficiently without punishment,
 surveillance, or operational disruption.
+SPDX-License-Identifier: HPD-SPEECH-FREE-USE-BOUNDARY
+
+=====================================================================
+CALIFORNIA BROADBAND PILOT — WHAT CHANGES / WHAT DOESN'T
+=====================================================================
+
+Audience: Governor’s office, Agency heads, Procurement, Legal, IT Security, Finance
+Purpose: One-page clarity insert for packets and executive review decks
+Status: Informative (Policy-facing) — Non-operational. Not a deployment spec.
+
+---------------------------------------------------------------------
+WHAT CHANGES
+---------------------------------------------------------------------
+
+1) OVERSIGHT MOVES UPSTREAM (VERIFY & RELEASE)
+- Payments and settlements are gated by pre-payment reconciliation.
+- Goal: reduce "pay & chase" (clawbacks, audits months later) by preventing
+  mismatches before disbursement.
+
+2) ACCOUNTING BECOMES MECHANICAL (TRIPLE-ENTRY RECONCILIATION)
+- Vendor claim (A), counterparty receipt (B), and physical/telemetry meter (C)
+  are compared deterministically.
+- Mismatches become discrete, auditable events — not narrative disputes.
+
+3) DISPUTES BECOME RARE AND BOUNDED (RING-0 BACKSTOP)
+- When automation cannot reconcile, the case freezes (escrow lock).
+- A named Responsible Officer resolves a binary question:
+  RATIFY (true) or SLASH (false), with typed attestation.
+- The decision and rationale are append-only, hash-linked, and reviewable.
+
+4) CIVIC REVENUE RECAPTURE IS POSSIBLE (NON-PUNITIVE WINDFALL)
+- Reduction in overpayment, duplicated claims, and disputed settlement overhead
+  creates measurable savings.
+- Those savings can be treated as an efficiency dividend (a windfall), enabling:
+  - more buildout per dollar
+  - faster program cycles
+  - improved public trust via clearer records
+
+5) ENERGY AND OPERATIONS EFFICIENCY IMPROVES
+- Better reconciliation reduces repeated investigations, data pulls, and manual
+  back-and-forth workflows.
+- The system prefers aggregation + proofs, reducing unnecessary data movement
+  and operational churn.
+
+---------------------------------------------------------------------
+WHAT DOESN'T CHANGE
+---------------------------------------------------------------------
+
+1) NO NEW LAWS REQUIRED
+- The pilot is an administrative integrity mechanism, not a statutory rewrite.
+- Existing eligibility rules and program definitions remain intact.
+
+2) THE STATE DOES NOT CEDE CONTROL
+- California retains full control of program design, procurement, budget,
+  vendor requirements, and decision authority.
+- HPD is a framework; it is not an operator.
+
+3) NO SUBSCRIBER DATA REQUIRED
+- No subscriber-level PII is required for settlement integrity.
+- The pilot prefers aggregates, headers, and cryptographic proofs over raw logs.
+
+4) NO VENDOR LOCK-IN
+- The approach is vendor-neutral: it is a reconciliation method, not a platform
+  takeover.
+- Integration can be sidecar / read-only where feasible.
+
+5) NO “AI AUTOPILOT” FOR RIGHTS OR MONEY
+- Automation detects and flags reconciliation failures.
+- Final money-touching judgment is never delegated to AI.
+- Human sovereignty is preserved at Ring-0.
+
+6) THIS IS NOT PUNITIVE ENFORCEMENT
+- The objective is accounting correctness and program integrity.
+- The system reduces disputes by making claims provable, not by creating new
+  penalties.
+
+---------------------------------------------------------------------
+FUNDING BOUNDARY (SPEECH VS USE)
+---------------------------------------------------------------------
+
+- Speech is free: reading, citing, discussing, critiquing, and forking HPD.
+- Operational reliance is funded: integrating HPD into decision-bearing
+  workflows (settlement/allocation/adjudication) requires institutional funding,
+  resolved solely through California’s existing procurement/budget processes
+  (including any privately mediated arrangements it elects to use).
+- HPD does not set prices, invoice, collect, negotiate, supervise, audit, or
+  enforce.
+
+---------------------------------------------------------------------
+ONE-SENTENCE CLOSE
+---------------------------------------------------------------------
+
+This pilot does not add bureaucracy; it replaces dispute-prone accounting with
+verifiable settlement, producing measurable fraud reduction and an efficiency
+dividend without punitive posture or vendor lock-in.
+=====================================================================
 
 =====================================================================
 END OF DOCUMENT
