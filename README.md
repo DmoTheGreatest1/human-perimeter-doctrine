@@ -11,3 +11,6 @@ Audience:
 - Institutions
 - Auditors
 HPD is governance documentation; operational tools live in separate repositories.
+
+SPDX-License-Identifier: HPD-SPEECH-FREE-USE-BOUNDARY
+See SPDX_NOTICE.txt for the non-binding explanation.

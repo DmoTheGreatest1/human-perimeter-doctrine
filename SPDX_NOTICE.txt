@@ -1,0 +1,8 @@
+SPDX-License-Identifier: HPD-SPEECH-FREE-USE-BOUNDARY
+
+This identifier denotes a non-proprietary civic doctrine:
+- Speech, citation, and forking are free and unrestricted.
+- Operational reliance in decision-bearing workflows is use-bound
+  and requires institution-resolved funding.
+- No enforcement, supervision, pricing, or negotiation authority
+  is granted or implied.
