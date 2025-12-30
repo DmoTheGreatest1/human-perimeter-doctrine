@@ -3,3 +3,6 @@
 *~
 *.swp
 *.swo
+constitutional-security-model/.venv/
+constitutional-security-model/node_modules/
+constitutional-security-model/.DS_Store
